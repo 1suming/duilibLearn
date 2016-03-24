@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="461,400">
+    <VerticalLayout name="VerticalLayoutUI1" bordersize="2" width="400" height="400" bkcolor="#FF808080" bordercolor="#00800080">
+        <Label name="LabelUI1" text="HelloDuilib" float="true" pos="93,114,0,0" width="229" height="131" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <Button name="btnClose" text="退出" float="true" pos="364,32,0,0" width="60" height="30" bkcolor="#FF008080" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+    </VerticalLayout>
+</Window>
